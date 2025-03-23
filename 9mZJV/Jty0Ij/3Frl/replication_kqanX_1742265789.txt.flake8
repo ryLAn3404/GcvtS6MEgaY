@@ -36,7 +36,6 @@ ignore =
     # dictionary key '' repeated with different values
     F601,
     # redefinition of unused x from line 123
-    F811,
     # undefined name x
     F821,
     # local variable x is assigned to but never used
