@@ -2,7 +2,6 @@
   "data_uid": "bd5c40d5b3fd5035", 
   "data_name": "Tool clsmith converted to CK format", 
   "dict": {
-    "repo_deps": [
       {
         "repo_uoa": "ck-autotuning"
       }
