@@ -228,7 +228,6 @@ class AdvancedActiveLearning():
                 item = cluster.members[key]
                 text = item[1]
                 
-                feature_vector = feature_method(text)
                 hidden, logits, log_probs = model(feature_vector, return_all_layers=True)  
     
                 prob_dist = torch.exp(log_probs) # the probability distribution of our prediction
