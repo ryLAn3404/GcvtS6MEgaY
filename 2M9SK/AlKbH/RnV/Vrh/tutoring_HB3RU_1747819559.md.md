@@ -86,7 +86,6 @@ Special thanks to the following contributors for their help with this release:
 ### Fixed
 
 - Fixed text alignment issues due to inconsistent spacing and tabs.
-- Ensure all lines do not exceed maximum character limit for readability.
 - Ensured consistent formatting across all lessons.
 
 ## [1.2] - 2024-08-02
