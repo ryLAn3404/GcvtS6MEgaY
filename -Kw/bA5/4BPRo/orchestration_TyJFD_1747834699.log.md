@@ -14,7 +14,6 @@ Looking for something to tackle? Browse our [good first issues](https://github.c
 
 Got a cool new model runtime or tool to add? Open a PR in our [plugin repo](https://github.com/langgenius/dify-plugins) and show us what you've built.
 
-Need to update an existing model runtime, tool, or squash some bugs? Head over to our [official plugin repo](https://github.com/langgenius/dify-official-plugins) and make your magic happen!
 
 Join the fun, contribute, and let's build something awesome together! 💡✨
 
