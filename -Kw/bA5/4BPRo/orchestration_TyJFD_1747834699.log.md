@@ -26,7 +26,6 @@ Don't forget to link an existing issue or open a new issue in the PR's descripti
 
 - A clear and descriptive title
 - A detailed description of the bug, including any error messages
-- Steps to reproduce the bug
 - Expected behavior
 - **Logs**, if available, for backend issues, this is really important, you can find them in docker-compose logs
 - Screenshots or videos, if applicable
