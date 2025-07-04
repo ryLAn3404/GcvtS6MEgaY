@@ -38,7 +38,6 @@ Special thanks to the following contributors for their help with this release:
 - Notes about "commenting" in Vim in Lesson 10.2 and the leader key in Lesson 13.
 - Reference to the Vim user manual in conclusion.
 - Additional challenge to install the 'preservim/nerdcommenter' plugin in Lesson 13.
-- Note about registers in Lesson 12.
 
 ### Changed
 
