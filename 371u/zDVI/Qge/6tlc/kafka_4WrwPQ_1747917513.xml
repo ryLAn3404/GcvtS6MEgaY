@@ -139,7 +139,6 @@ under the License.
 							</artifactSet>
 							<filters>
 								<filter>
-									<!-- Do not copy the signatures in the META-INF folder.
 									Otherwise, this might cause SecurityExceptions when using the JAR. -->
 									<artifact>*:*</artifact>
 									<excludes>
