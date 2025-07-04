@@ -196,7 +196,6 @@ under the License.
 									</pluginExecutionFilter>
 									<action>
 										<ignore/>
-									</action>
 								</pluginExecution>
 							</pluginExecutions>
 						</lifecycleMappingMetadata>
