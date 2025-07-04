@@ -23,7 +23,6 @@ RewriteRule ^modify_pedigree$ modify_pedigree.php [L]
 RewriteRule ^query$ query.php [L]
 RewriteRule ^results$ results.php [L]
 RewriteRule ^variant_info$ variant_info.php [L]
-
 RewriteRule ^actions/action_analysis_types$ actions/action_analysis_types.php [L]
 RewriteRule ^actions/action_database_administration$ actions/action_database_administration.php [L]
 RewriteRule ^actions/action_delete_genome_blocks$ actions/action_delete_genome_blocks.php [L]
