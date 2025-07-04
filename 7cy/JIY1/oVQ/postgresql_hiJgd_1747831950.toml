@@ -18,7 +18,6 @@ enabled = true
   import_root = "github.com/gogs/gogs"
 
 [[transformers]]
-name = "gofumpt"
 enabled = true
 
 [[transformers]]
