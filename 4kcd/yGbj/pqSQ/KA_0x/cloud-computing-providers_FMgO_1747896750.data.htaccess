@@ -35,7 +35,6 @@ RewriteRule ^actions/action_run_query$ actions/action_run_query.php [L]
 RewriteRule ^actions/action_store_genome_blocks$ actions/action_store_genome_blocks.php [L]
 RewriteRule ^actions/action_user_administration$ actions/action_user_administration.php [L]
 
-# When the request is using HTTPS
 RewriteCond %{HTTPS} =on
 
         # Redirect to http if the page requested is igv_link.php, this is because this page needs to load an http:// in an <iframe> which won't work if the page is loaded with https://
