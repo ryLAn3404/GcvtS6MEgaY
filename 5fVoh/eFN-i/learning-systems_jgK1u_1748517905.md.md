@@ -1,6 +1,5 @@
 ## Qix
 
-Copyright (C) 2020 https://github.com/ty4z2008/Qix
 
 this software and associated documentation files (the "Software"), to deal in
 the Software without restriction, including without limitation the rights to
