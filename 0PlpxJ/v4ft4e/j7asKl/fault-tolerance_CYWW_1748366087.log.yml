@@ -1,4 +1,3 @@
-tasks:
 - init: ./gradlew compileTestJava compileJava
 
 vscode:
