@@ -24,7 +24,6 @@ PODS:
     - Starscream (~> 3.1)
   - StreamChatCore (2.2.5):
     - RxCocoa (~> 5.1)
-    - RxSwift (~> 5.1)
     - StreamChatClient (= 2.2.5)
   - SwiftyGif (5.2.0)
   - VoxeetSDK (2.4.0)
