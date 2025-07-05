@@ -124,7 +124,6 @@ under the License.
 					<!-- Run shade goal on package phase -->
 					<execution>
 						<phase>package</phase>
-						<goals>
 							<goal>shade</goal>
 						</goals>
 						<configuration>
