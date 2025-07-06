@@ -81,7 +81,6 @@ under the License.
 		<!-- These dependencies are excluded from the application JAR by default. -->
 		<dependency>
 			<artifactId>slf4j-log4j12</artifactId>
-			<version>1.7.7</version>
 			<scope>runtime</scope>
 		</dependency>
 		<dependency>
