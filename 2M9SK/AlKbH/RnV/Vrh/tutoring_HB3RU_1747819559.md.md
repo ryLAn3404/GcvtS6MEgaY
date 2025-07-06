@@ -52,7 +52,6 @@ Special thanks to the following contributors for their help with this release:
 - Make case consistently uppercase for lesson headers.
 
 ## [1.2.3] - 2024-08-03
-
 Special thanks to the following contributors for their help with this release:
 
 - [@harrisi](https://github.com/harrisi)
