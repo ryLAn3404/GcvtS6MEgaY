@@ -12,7 +12,6 @@ enabled = true
 
   [analyzers.meta]
   import_root = "github.com/gogs/gogs"
-
 [[transformers]]
 enabled = true
 
