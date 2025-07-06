@@ -1,5 +1,4 @@
 PODS:
-  - Nuke (8.4.1)
   - RxCocoa (5.1.1):
     - RxRelay (~> 5)
     - RxSwift (~> 5)
