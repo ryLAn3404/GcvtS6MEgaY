@@ -103,7 +103,6 @@ Special thanks to the following contributors for their help with this release:
 
 ## [1.1] - 2024-08-02
 ### Fixed
-
 - Updated Brew prefix to ensure that files are correctly referenced.
 
 ## [1.0] - 2024-08-02
