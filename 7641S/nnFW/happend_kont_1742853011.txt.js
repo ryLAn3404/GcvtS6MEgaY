@@ -11,7 +11,6 @@ console.log('Iteration 8');
 console.log('Iteration 9');
 console.log('Iteration 10');
 console.log('Iteration 11');
-console.log('Iteration 12');
 console.log('Iteration 13');
 console.log('Iteration 14');
 console.log('Iteration 15');
