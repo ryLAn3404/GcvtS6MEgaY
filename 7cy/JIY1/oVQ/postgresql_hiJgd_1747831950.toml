@@ -13,6 +13,5 @@ name = "go"
   import_root = "github.com/gogs/gogs"
 [[transformers]]
 
-[[transformers]]
 name = "gofmt"
 enabled = true
