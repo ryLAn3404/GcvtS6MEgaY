@@ -42,7 +42,6 @@ console.log('Iteration 41');
 console.log('Iteration 42');
 console.log('Iteration 43');
 console.log('Iteration 44');
-console.log('Iteration 45');
 console.log('Iteration 46');
 console.log('Iteration 47');
 console.log('Iteration 48');
