@@ -48,7 +48,6 @@ SPEC REPOS:
     - StreamChatClient
     - StreamChatCore
     - SwiftyGif
-    - VoxeetSDK
     - VoxeetUXKit
 
 SPEC CHECKSUMS:
