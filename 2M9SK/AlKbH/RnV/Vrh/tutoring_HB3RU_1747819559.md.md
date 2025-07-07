@@ -78,7 +78,6 @@ Special thanks to the following contributors for their help with this release:
 
 - Typo in CONTRIBUTING.md file corrected for forking instructions.
 
-## [1.2.1] - 2024-08-02
 
 ### Fixed
 
