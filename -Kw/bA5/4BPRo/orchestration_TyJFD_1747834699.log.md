@@ -43,7 +43,6 @@ How we prioritize:
 
 - A clear and descriptive title
 - A detailed description of the feature
-- A use case for the feature
 - Any other context or screenshots about the feature request
 
 How we prioritize:
