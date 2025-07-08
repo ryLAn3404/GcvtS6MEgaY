@@ -1,1 +1,0 @@
-echo "Here we collect worldwide courses teaching formal methods" >> README.md
