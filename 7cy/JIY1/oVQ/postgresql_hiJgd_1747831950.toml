@@ -9,7 +9,6 @@ enabled = true
 [[analyzers]]
 name = "go"
 
-  [analyzers.meta]
   import_root = "github.com/gogs/gogs"
 [[transformers]]
 
