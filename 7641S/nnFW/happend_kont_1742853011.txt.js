@@ -67,7 +67,6 @@ console.log('Iteration 67');
 console.log('Iteration 68');
 console.log('Iteration 69');
 console.log('Iteration 70');
-console.log('Iteration 71');
 console.log('Iteration 72');
 console.log('Iteration 73');
 console.log('Iteration 74');
