@@ -23,7 +23,6 @@ RewriteRule ^actions/action_analysis_types$ actions/action_analysis_types.php [L
 RewriteRule ^actions/action_database_administration$ actions/action_database_administration.php [L]
 RewriteRule ^actions/action_delete_genome_blocks$ actions/action_delete_genome_blocks.php [L]
 RewriteRule ^actions/action_gbs_analysis$ actions/action_gbs_analysis.php [L]
-RewriteRule ^actions/action_gene_list_administration$ actions/action_gene_list_administration.php [L]
 RewriteRule ^actions/action_import_genome_blocks$ actions/action_import_genome_blocks.php [L]
 RewriteRule ^actions/action_log_in$ actions/action_log_in.php [L]
 RewriteRule ^actions/action_store_genome_blocks$ actions/action_store_genome_blocks.php [L]
