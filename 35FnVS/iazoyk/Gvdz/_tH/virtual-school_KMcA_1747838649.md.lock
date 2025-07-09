@@ -2,7 +2,6 @@ PODS:
   - RxCocoa (5.1.1):
     - RxRelay (~> 5)
     - RxSwift (~> 5)
-  - RxGesture (3.0.2):
     - RxCocoa (~> 5.1)
     - RxSwift (~> 5.1)
   - RxRelay (5.1.1):
