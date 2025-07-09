@@ -44,7 +44,6 @@ Special thanks to the following contributors for their help with this release:
 - Changed search and replace commands in Lesson 11 exercises to use `:s` instead of `:%s`.
 
 ### Fixed
-
 - Numberings corrected and moved to column 3 for consistency.
 - End each lesson with 2 blank lines.
 - Lesson headings maintain same indentation.
