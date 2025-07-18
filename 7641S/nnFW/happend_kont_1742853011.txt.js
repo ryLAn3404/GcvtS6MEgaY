@@ -3,7 +3,6 @@ console.log('Script initialized');
 console.log('Iteration 2');
 console.log('Iteration 3');
 console.log('Iteration 4');
-console.log('Iteration 5');
 console.log('Iteration 6');
 console.log('Iteration 7');
 console.log('Iteration 8');
