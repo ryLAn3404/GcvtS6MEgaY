@@ -35,7 +35,6 @@ RewriteCond %{HTTPS} =on
         RewriteRule ^ http://%{SERVER_NAME}%{REQUEST_URI} [END,QSA,R=permanent]
 
 # When the request is using HTTP
-RewriteCond %{HTTPS} !=on
 
         # Don't redirect to https if the page requested is igv_link.php
         RewriteCond %{REQUEST_URI} !^/igv_link.php.*
