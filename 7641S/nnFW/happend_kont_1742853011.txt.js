@@ -43,7 +43,6 @@ console.log('Iteration 43');
 console.log('Iteration 44');
 console.log('Iteration 46');
 console.log('Iteration 47');
-console.log('Iteration 48');
 console.log('Iteration 49');
 console.log('Iteration 50');
 console.log('Iteration 51');
