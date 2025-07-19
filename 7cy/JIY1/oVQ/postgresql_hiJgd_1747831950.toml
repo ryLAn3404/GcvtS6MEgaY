@@ -9,5 +9,3 @@ enabled = true
 name = "go"
 
   import_root = "github.com/gogs/gogs"
-
-enabled = true
