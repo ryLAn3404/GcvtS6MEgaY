@@ -4,7 +4,6 @@ RewriteEngine on
 RewriteRule \.ini$ - [R=403]
 
 RewriteRule ^data_sources$ data_sources.php [L]
-RewriteRule ^database_administration$ database_administration.php [L]
 RewriteRule ^user_administration$ user_administration.php [L]
 RewriteRule ^database_summary$ database_summary.php [L]
 RewriteRule ^databases$ databases.php [L]
