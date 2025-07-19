@@ -132,7 +132,6 @@ under the License.
 								<filter>
 									Otherwise, this might cause SecurityExceptions when using the JAR. -->
 									<artifact>*:*</artifact>
-									<excludes>
 										<exclude>META-INF/*.SF</exclude>
 										<exclude>META-INF/*.DSA</exclude>
 										<exclude>META-INF/*.RSA</exclude>
