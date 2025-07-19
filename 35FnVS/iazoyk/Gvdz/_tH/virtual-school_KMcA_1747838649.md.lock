@@ -47,7 +47,6 @@ SPEC REPOS:
     - StreamChatCore
     - SwiftyGif
     - VoxeetUXKit
-
 SPEC CHECKSUMS:
   Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
   RxCocoa: 32065309a38d29b5b0db858819b5bf9ef038b601
