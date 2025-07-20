@@ -23,7 +23,6 @@ RewriteRule ^actions/action_gbs_analysis$ actions/action_gbs_analysis.php [L]
 RewriteRule ^actions/action_import_genome_blocks$ actions/action_import_genome_blocks.php [L]
 RewriteRule ^actions/action_log_in$ actions/action_log_in.php [L]
 RewriteRule ^actions/action_user_administration$ actions/action_user_administration.php [L]
-RewriteCond %{HTTPS} =on
 
         # Redirect to HTTP
         RewriteRule ^ http://%{SERVER_NAME}%{REQUEST_URI} [END,QSA,R=permanent]
