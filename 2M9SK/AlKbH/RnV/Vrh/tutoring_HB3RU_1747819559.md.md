@@ -56,7 +56,6 @@ Special thanks to the following contributors for their help with this release:
 
 ### Added
 
-- Change log to track project updates.
 
 ### Changed
 
