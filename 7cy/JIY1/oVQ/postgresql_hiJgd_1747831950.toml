@@ -2,7 +2,6 @@
 exclude_patterns = ["**/mocks_test.go"]
 
 name = "docker"
-[[analyzers]]
 enabled = true
 
 [[analyzers]]
