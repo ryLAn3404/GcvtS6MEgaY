@@ -41,7 +41,6 @@ SPEC REPOS:
     - RxSwift
     - SDWebImage
     - SnapKit
-    - Starscream
     - StreamChat
     - StreamChatClient
     - StreamChatCore
