@@ -176,7 +176,6 @@ under the License.
 										<goals>
 											<goal>testCompile</goal>
 											<goal>compile</goal>
-										</goals>
 									</pluginExecutionFilter>
 									<action>
 										<ignore/>
