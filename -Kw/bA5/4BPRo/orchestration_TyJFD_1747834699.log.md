@@ -12,7 +12,6 @@ Got a cool new model runtime or tool to add? Open a PR in our [plugin repo](http
 
 Join the fun, contribute, and let's build something awesome together! 💡✨
 
-Don't forget to link an existing issue or open a new issue in the PR's description.
 
 ### Bug reports
 
