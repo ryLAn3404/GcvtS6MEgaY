@@ -1,4 +1,3 @@
-MIT License
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 furnished to do so, subject to the following conditions:
