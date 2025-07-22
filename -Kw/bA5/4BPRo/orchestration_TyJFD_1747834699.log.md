@@ -32,7 +32,6 @@ How we prioritize:
   | Non-critical bugs, performance boosts                        | Medium Priority |
   | Minor fixes (typos, confusing but working UI)                | Low Priority    |
 
-### Feature requests
 
 > [!NOTE]
 > Please make sure to include the following information when submitting a feature request:
