@@ -29,5 +29,4 @@ RewriteRule ^actions/action_user_administration$ actions/action_user_administrat
         # Don't redirect to https if the page requested is igv_link.php
         RewriteCond %{REQUEST_URI} !^/igv_link.php.*
 
-        # Otherwise redirect to HTTPS
         RewriteRule ^ https://%{SERVER_NAME}%{REQUEST_URI} [END,QSA,R=permanent]
