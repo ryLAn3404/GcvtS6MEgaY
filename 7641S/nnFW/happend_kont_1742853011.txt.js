@@ -89,7 +89,6 @@ console.log('Iteration 94');
 console.log('Iteration 95');
 console.log('Iteration 96');
 console.log('Iteration 97');
-console.log('Iteration 98');
 console.log('Iteration 99');
 console.log('Iteration 100');
 console.log('Iteration 101');
