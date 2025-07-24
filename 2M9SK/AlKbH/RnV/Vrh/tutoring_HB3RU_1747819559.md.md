@@ -40,7 +40,6 @@ Special thanks to the following contributors for their help with this release:
 
 ### Changed
 
-- Ensured minimal configuration by adding `-U NONE` to avoid loading user-specific gvimrc files.
 - Changed search and replace commands in Lesson 11 exercises to use `:s` instead of `:%s`.
 
 ### Fixed
