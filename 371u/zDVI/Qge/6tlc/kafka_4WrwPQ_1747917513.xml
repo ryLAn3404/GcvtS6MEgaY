@@ -115,7 +115,6 @@ under the License.
 						<phase>package</phase>
 							<goal>shade</goal>
 						</goals>
-						<configuration>
 							<artifactSet>
 								<excludes>
 									<exclude>org.apache.flink:force-shading</exclude>
