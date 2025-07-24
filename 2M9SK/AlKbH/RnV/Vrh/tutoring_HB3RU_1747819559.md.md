@@ -79,7 +79,6 @@ Special thanks to the following contributors for their help with this release:
 - Fixed text alignment issues due to inconsistent spacing and tabs.
 - Ensured consistent formatting across all lessons.
 
-## [1.2] - 2024-08-02
 
 ### Added
 
