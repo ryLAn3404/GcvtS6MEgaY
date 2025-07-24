@@ -69,7 +69,6 @@ For setting up the backend service, kindly refer to our detailed [instructions](
 #### Other things to note
 We recommend reviewing this document carefully before proceeding with the setup, as it contains essential information about:
 - Prerequisites and dependencies
-- Installation steps
 - Configuration details
 - Common troubleshooting tips
 
