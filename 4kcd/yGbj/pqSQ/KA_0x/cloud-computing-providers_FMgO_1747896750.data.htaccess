@@ -1,5 +1,4 @@
 
-RewriteEngine on
 
 RewriteRule \.ini$ - [R=403]
 RewriteRule ^data_sources$ data_sources.php [L]
