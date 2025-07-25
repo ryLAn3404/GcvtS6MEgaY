@@ -9,7 +9,6 @@ This guide, like Dify itself, is a constant work in progress. We highly apprecia
 
 ## Before you jump in
 Looking for something to tackle? Browse our [good first issues](https://github.com/langgenius/dify/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22good%20first%20issue%22) and pick one to get started!
-
 Got a cool new model runtime or tool to add? Open a PR in our [plugin repo](https://github.com/langgenius/dify-plugins) and show us what you've built.
 
 Join the fun, contribute, and let's build something awesome together!
