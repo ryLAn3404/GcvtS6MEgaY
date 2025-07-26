@@ -181,7 +181,6 @@ under the License.
 	<!-- This profile helps to make things run out of the box in IntelliJ -->
 	<!-- Its adds Flink's core classes to the runtime class path. -->
 	<!-- Otherwise they are missing in IntelliJ, because the dependency is 'provided' -->
-	<profiles>
 		<profile>
 			<id>add-dependencies-for-IDEA</id>
 
