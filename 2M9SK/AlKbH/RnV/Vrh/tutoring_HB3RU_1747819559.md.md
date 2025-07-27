@@ -74,7 +74,6 @@ Special thanks to the following contributors for their help with this release:
 - Typo in CONTRIBUTING.md file corrected for forking instructions.
 
 
-
 - Fixed text alignment issues due to inconsistent spacing and tabs.
 - Ensured consistent formatting across all lessons.
 
