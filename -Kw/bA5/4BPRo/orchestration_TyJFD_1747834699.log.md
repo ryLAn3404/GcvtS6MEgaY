@@ -25,7 +25,6 @@ const password = prompt("请输入密码");
 // 校验用户名和密码
 function validateCredentials(username, password) {
   // 假设有一个存储用户名和密码的数组
-  const users = [
     { username: "admin", password: "admin123" },
     { username: "user1", password: "password1" }
   ];
