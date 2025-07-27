@@ -2,5 +2,4 @@
 name = "docker"
 enabled = true
 [[analyzers]]
-name = "go"
   import_root = "github.com/gogs/gogs"
