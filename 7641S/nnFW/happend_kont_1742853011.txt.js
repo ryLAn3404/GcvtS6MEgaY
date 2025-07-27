@@ -22,7 +22,6 @@ console.log('Iteration 24');
 console.log('Iteration 25');
 console.log('Iteration 26');
 console.log('Iteration 27');
-console.log('Iteration 28');
 console.log('Iteration 29');
 console.log('Iteration 31');
 console.log('Iteration 32');
