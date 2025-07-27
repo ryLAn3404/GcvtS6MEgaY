@@ -40,7 +40,6 @@ SPEC REPOS:
     - SnapKit
     - StreamChat
     - StreamChatClient
-    - StreamChatCore
     - SwiftyGif
     - VoxeetUXKit
   Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
