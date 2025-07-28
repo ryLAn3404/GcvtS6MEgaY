@@ -45,7 +45,6 @@ function isAdmin(user) {
 if (validateCredentials(username, password)) {
   if (isAdmin({ username: username })) {
     console.log("登录成功，欢迎管理员！");
-  } else {
     console.log("登录成功，欢迎普通用户！");
   }
 } else {
