@@ -39,7 +39,6 @@ under the License.
 				<enabled>false</enabled>
 			</releases>
 			<snapshots>
-			</snapshots>
 		</repository>
 	</repositories>
 
