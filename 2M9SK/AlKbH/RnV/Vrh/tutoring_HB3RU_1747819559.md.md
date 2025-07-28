@@ -83,7 +83,6 @@ Special thanks to the following contributors for their help with this release:
 - Add CONTRIBUTING.md file to guide contributors.
 - Update README.md with teaser image and additional information.
 
-
 - Improved text alignment and spacing to match the original vimtutor.
 - Adjusted vimrc to ensure consistent display settings.
 - Improved readability with better text highlighting settings.
