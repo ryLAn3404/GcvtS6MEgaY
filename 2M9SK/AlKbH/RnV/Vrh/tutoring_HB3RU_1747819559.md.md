@@ -100,7 +100,6 @@ Special thanks to the following contributors for their help with this release:
 ### Added
 
 - Initial release of Vimtutor Sequel.
-- Basic advanced Vim topics and initial lessons.
 
 [Unreleased]: https://github.com/micahkepe/vimtutor-sequel/compare/v1.3.1...HEAD
 [1.3.1]: https://github.com/micahkepe/vimtutor-sequel/compare/v1.3...v1.3.1
