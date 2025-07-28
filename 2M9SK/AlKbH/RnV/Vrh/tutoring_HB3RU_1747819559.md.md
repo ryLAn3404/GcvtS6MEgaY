@@ -87,7 +87,6 @@ Special thanks to the following contributors for their help with this release:
 - Improved text alignment and spacing to match the original vimtutor.
 - Adjusted vimrc to ensure consistent display settings.
 - Improved readability with better text highlighting settings.
-- Ensured the content is properly centered and aligned.
 
 ### Fixed
 - Updated Brew prefix to ensure that files are correctly referenced.
