@@ -100,7 +100,6 @@ under the License.
 			<!-- Change the value of <mainClass>...</mainClass> if your program entry point changes. -->
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
-				<artifactId>maven-shade-plugin</artifactId>
 				<version>3.0.0</version>
 					<!-- Run shade goal on package phase -->
 					<execution>
