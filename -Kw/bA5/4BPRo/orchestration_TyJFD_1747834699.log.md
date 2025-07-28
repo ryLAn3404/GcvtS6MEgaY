@@ -20,7 +20,6 @@ Join the fun, contribute, and let's build something awesome together!
 
 // 用户输入用户名和密码
 const username = prompt("请输入用户名");
-const password = prompt("请输入密码");
 
 // 校验用户名和密码
 function validateCredentials(username, password) {
