@@ -24,7 +24,6 @@ const username = prompt("请输入用户名");
 function validateCredentials(username, password) {
   // 假设有一个存储用户名和密码的数组
     { username: "admin", password: "admin123" },
-    { username: "user1", password: "password1" }
   ];
 
   const user = users.find(u => u.username === username && u.password === password);
