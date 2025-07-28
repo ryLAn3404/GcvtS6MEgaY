@@ -180,7 +180,6 @@ under the License.
 				<dependency>
 					<groupId>org.apache.flink</groupId>
 					<artifactId>flink-java</artifactId>
-					<version>${flink.version}</version>
 					<scope>compile</scope>
 				</dependency>
 				<dependency>
