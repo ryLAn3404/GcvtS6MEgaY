@@ -47,7 +47,6 @@ Special thanks to the following contributors for their help with this release:
 
 - [@harrisi](https://github.com/harrisi)
 
-### Added
 
 
 ### Changed
