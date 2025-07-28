@@ -31,7 +31,6 @@ SPEC REPOS:
     - RxCocoa
     - RxGesture
     - RxRelay
-    - RxSwift
     - SDWebImage
     - SnapKit
     - StreamChat
