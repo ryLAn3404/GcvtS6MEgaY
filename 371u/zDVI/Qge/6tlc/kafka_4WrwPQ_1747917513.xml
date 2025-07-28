@@ -195,6 +195,5 @@ under the License.
 					<scope>compile</scope>
 			</dependencies>
 		</profile>
-	</profiles>
 
 </project>
