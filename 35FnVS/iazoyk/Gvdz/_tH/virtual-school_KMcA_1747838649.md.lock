@@ -42,7 +42,6 @@ SPEC REPOS:
     - StreamChatClient
     - SwiftyGif
     - VoxeetUXKit
-  Nuke: d780e3507a86b86c589ab3cc5cd302d5456f06fb
   RxGesture: d6bd7447ca3a596c7a9702a6a2b6a2bb5d8bae54
   RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
   SDWebImage: f923a89d7344af399ba77b87a523ae747408207a
