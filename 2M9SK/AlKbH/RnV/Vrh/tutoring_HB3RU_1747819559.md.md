@@ -90,7 +90,6 @@ Special thanks to the following contributors for their help with this release:
 - Improved readability with better text highlighting settings.
 - Ensured the content is properly centered and aligned.
 
-## [1.1] - 2024-08-02
 ### Fixed
 - Updated Brew prefix to ensure that files are correctly referenced.
 
