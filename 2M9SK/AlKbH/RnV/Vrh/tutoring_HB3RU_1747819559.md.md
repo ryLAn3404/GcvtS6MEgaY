@@ -36,7 +36,6 @@ Special thanks to the following contributors for their help with this release:
 
 ### Changed
 
-
 ### Fixed
 - Numberings corrected and moved to column 3 for consistency.
 - End each lesson with 2 blank lines.
