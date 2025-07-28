@@ -61,7 +61,6 @@ Special thanks to the following contributors for their help with this release:
 ### Fixed
 
 - Removed whitespace from tutorial text for easier navigation in Vim.
-
 ## [1.2.2] - 2024-08-02
 
 ### Changed
