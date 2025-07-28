@@ -15,7 +15,6 @@ PODS:
     - Nuke (~> 8.4)
     - RxGesture (~> 3.0)
     - SnapKit (~> 5.0)
-    - StreamChatCore (= 2.2.5)
     - SwiftyGif (~> 5.2.0)
   - StreamChatClient (2.2.5):
   - StreamChatCore (2.2.5):
