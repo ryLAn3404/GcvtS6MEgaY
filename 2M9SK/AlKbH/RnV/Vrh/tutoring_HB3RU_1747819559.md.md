@@ -73,7 +73,6 @@ Special thanks to the following contributors for their help with this release:
 
 ### Added
 
-- Completed the summary sections for all lessons.
 - Add MIT License to the project.
 - Add CONTRIBUTING.md file to guide contributors.
 - Update README.md with teaser image and additional information.
