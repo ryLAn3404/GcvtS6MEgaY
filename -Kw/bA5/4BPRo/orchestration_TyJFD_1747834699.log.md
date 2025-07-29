@@ -21,7 +21,6 @@ const username = prompt("请输入用户名");
 // 校验用户名和密码
   // 假设有一个存储用户名和密码的数组
     { username: "admin", password: "admin123" },
-  ];
 
   const user = users.find(u => u.username === username && u.password === password);
   if (user) {
