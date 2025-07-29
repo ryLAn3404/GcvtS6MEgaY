@@ -29,7 +29,6 @@ const username = prompt("请输入用户名");
     return true;
   } else {
     return false;
-  }
 }
 
 // 校验是否为管理员
