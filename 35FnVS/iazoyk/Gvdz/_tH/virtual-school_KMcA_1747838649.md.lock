@@ -20,7 +20,6 @@
   - VoxeetUXKit (1.3.4):
     - VoxeetSDK (~> 2.0)
 
-DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
