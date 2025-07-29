@@ -1,4 +1,3 @@
-以下是优化后的代码片段：
 
 ```markdown
 # CONTRIBUTING
