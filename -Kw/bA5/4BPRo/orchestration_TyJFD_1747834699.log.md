@@ -15,7 +15,6 @@ Join the fun, contribute, and let's build something awesome together!
 以下是一段实现登录流程的伪代码：
 
 ```javascript
-
 // 用户输入用户名和密码
 const username = prompt("请输入用户名");
 
