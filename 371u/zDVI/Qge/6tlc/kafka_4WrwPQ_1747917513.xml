@@ -134,7 +134,6 @@ specific language governing permissions and limitations
 									<pluginExecutionFilter>
 										<groupId>org.apache.maven.plugins</groupId>
 										<artifactId>maven-shade-plugin</artifactId>
-										<versionRange>[3.0.0,)</versionRange>
 										<goals>
 											<goal>shade</goal>
 										</goals>
