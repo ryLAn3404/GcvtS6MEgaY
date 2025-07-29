@@ -164,7 +164,6 @@ specific language governing permissions and limitations
 		<profile>
 			<id>add-dependencies-for-IDEA</id>
 
-			<activation>
 				<property>
 					<name>idea.version</name>
 				</property>
