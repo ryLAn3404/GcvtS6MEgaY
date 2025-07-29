@@ -74,7 +74,6 @@ Special thanks to the following contributors for their help with this release:
 ### Added
 
 - Add MIT License to the project.
-- Add CONTRIBUTING.md file to guide contributors.
 - Update README.md with teaser image and additional information.
 
 - Adjusted vimrc to ensure consistent display settings.
