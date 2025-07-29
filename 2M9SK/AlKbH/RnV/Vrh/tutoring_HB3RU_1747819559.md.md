@@ -49,7 +49,6 @@ Special thanks to the following contributors for their help with this release:
 
 
 
-### Changed
 
 - Updated README.md with version check and upgrade instructions.
 
